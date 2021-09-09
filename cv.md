@@ -6,7 +6,7 @@ Cheboksary, Russia
 
 **e-mail:** van-kirillov@list.ru
 
-**telegram:** @van_kir
+**telegram:** [@van_kir](https://t-do.ru/van_kir)
 
 **github:** [@Vanya-Kir](https://github.com/Vanya-Kir)
 
