@@ -1,1 +1,0 @@
-https://Vanya-Kir.github.io/rsschool-cv/cv
