@@ -25,6 +25,7 @@ nav img {
 	margin: 20px;
 	cursor: pointer;
 	display: none;
+  z-index: 10;
 }
 
 .tabs {
@@ -125,13 +126,14 @@ footer a {
 		transition: top 1s ease;
 		display: none;
 	}
-	nav .close_menu img {
+	nav .close-menu img {
 		display: block;
-		position: absolute;
+		position: fixed;
 		top: 20px;
 		right: 20px;
+    /* opacity: 0; */
 	}
-	nav .open_enu img {
+	nav .open-menu img {
 		display: block;
 	}
 	nav .tabs li a:hover {
